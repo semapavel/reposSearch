@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reposSearch/static/css/main.60cfc285.css",
+    "main.js": "/reposSearch/static/js/main.c329fb9a.js",
+    "index.html": "/reposSearch/index.html",
+    "main.60cfc285.css.map": "/reposSearch/static/css/main.60cfc285.css.map",
+    "main.c329fb9a.js.map": "/reposSearch/static/js/main.c329fb9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60cfc285.css",
+    "static/js/main.c329fb9a.js"
+  ]
+}
